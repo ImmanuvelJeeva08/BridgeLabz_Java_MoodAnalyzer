@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MoodAnalyzerTestUc3" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-03T02:20:27" hostname="LENOVO" time="0.058">
+  <properties/>
+  <testcase name="testMoodAnalysis_whenMoodIsEmpty_ShouldThrowException()" classname="MoodAnalyzerTestUc3" time="0.058"/>
+  <system-out><![CDATA[MoodAnalysisException: Please enter proper message!
+ENTERED_EMPTY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
